@@ -1,2 +1,15 @@
 # C-sharp-beginner-tutorial
 C# Tutorial for beginners
+
+Using Git with VisualStudio: https://www.youtube.com/watch?v=jUiuIAZt6Dw
+
+Coding in Unity for the Absolute Beginner: https://www.youtube.com/watch?v=nWkUutm7Kus&feature=emb_rel_pause
+
+C# tutorial basics in an hour: https://www.youtube.com/watch?v=gfkTfcpWqAY
+
+msdn series C#: https://channel9.msdn.com/Series/CSharp-101/CSharp-Branches-if
+
+Intro to C/C++: https://www.learncpp.com/cpp-tutorial/introduction-to-programming-languages/
+
+GitHub top 100 most valuable repositories: https://hackernoon.com/githubs-top-100-most-valuable-repositories-out-of-96-million-bb48caa9eb0b
+
